@@ -1,6 +1,4 @@
-# myEos
-
-#掘金
+# 掘金篇
   
  ## 1.理论
  > 敬请期待...
@@ -24,5 +22,7 @@
  * [【三胖聊区块链-EOS】(一)EOS填坑系列-Nodeos非正常关闭导致重启异常解决方案](https://juejin.im/post/5e8973b2e51d4546e2637797)
  * [【三胖聊区块链-EOS】(二)EOS填坑系列-EOS修改已存在表结构引起的Exception](https://juejin.im/post/5e8975f36fb9a03c786f005f)
  
+
+# 知乎篇
 
 > 持续更新中...
